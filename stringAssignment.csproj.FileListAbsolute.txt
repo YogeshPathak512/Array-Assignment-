@@ -1,0 +1,14 @@
+C:\Users\mossuser2\source\repos\stringAssignment\stringAssignment\bin\Debug\net8.0\stringAssignment.exe
+C:\Users\mossuser2\source\repos\stringAssignment\stringAssignment\bin\Debug\net8.0\stringAssignment.deps.json
+C:\Users\mossuser2\source\repos\stringAssignment\stringAssignment\bin\Debug\net8.0\stringAssignment.runtimeconfig.json
+C:\Users\mossuser2\source\repos\stringAssignment\stringAssignment\bin\Debug\net8.0\stringAssignment.dll
+C:\Users\mossuser2\source\repos\stringAssignment\stringAssignment\bin\Debug\net8.0\stringAssignment.pdb
+C:\Users\mossuser2\source\repos\stringAssignment\stringAssignment\obj\Debug\net8.0\stringAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mossuser2\source\repos\stringAssignment\stringAssignment\obj\Debug\net8.0\stringAssignment.AssemblyInfoInputs.cache
+C:\Users\mossuser2\source\repos\stringAssignment\stringAssignment\obj\Debug\net8.0\stringAssignment.AssemblyInfo.cs
+C:\Users\mossuser2\source\repos\stringAssignment\stringAssignment\obj\Debug\net8.0\stringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mossuser2\source\repos\stringAssignment\stringAssignment\obj\Debug\net8.0\stringAssignment.dll
+C:\Users\mossuser2\source\repos\stringAssignment\stringAssignment\obj\Debug\net8.0\refint\stringAssignment.dll
+C:\Users\mossuser2\source\repos\stringAssignment\stringAssignment\obj\Debug\net8.0\stringAssignment.pdb
+C:\Users\mossuser2\source\repos\stringAssignment\stringAssignment\obj\Debug\net8.0\stringAssignment.genruntimeconfig.cache
+C:\Users\mossuser2\source\repos\stringAssignment\stringAssignment\obj\Debug\net8.0\ref\stringAssignment.dll
